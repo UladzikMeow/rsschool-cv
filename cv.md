@@ -11,8 +11,8 @@
    * UML diagrams
    * Autocad
    * Photoshop
-1. **Code example:**
-```
+1. **Code example:** 
+``` 
 <!DOCTYPE html>
 <html>
     <head>
@@ -26,9 +26,8 @@
         <div class="block fr-block">Right</div>
         </div>
         </body>
-
-</html>
+</html> 
 ```
 1. **Experience:**
-1. **Education:**General secondary education
+1. **Education:** General secondary education
 1. **English language:** A2(Elementary)
