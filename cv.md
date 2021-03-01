@@ -12,22 +12,21 @@
    * Autocad
    * Photoshop
 1. **Code example:** 
-``` 
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Test</title>
-        <link rel="stylesheet" href="css/style.css">
-    </head>
-    <body>
-        <div class="parent">
-        <div class="block fl-block">Left</div>
-        <div class="block fr-block">Right</div>
-        </div>
-        </body>
-</html> 
-```
-1. **Experience:**
+
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <meta charset="utf-8">
+                <title>Test</title>
+                <link rel="stylesheet" href="css/style.css">
+            </head>
+            <body>
+                <div class="parent">
+                <div class="block fl-block">Left</div>
+                <div class="block fr-block">Right</div>
+                </div>
+            </body>
+        </html> 
+1. **Experience:** 
 1. **Education:** General secondary education
 1. **English language:** A2(Elementary)
